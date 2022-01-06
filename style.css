@@ -38,7 +38,7 @@ img{
 }
 
 #focus{
-    border-left: 3px solid ;
+    border-left: 4px solid ;
     border-image: linear-gradient(red,yellow);
     border-image-slice: 1;
     
@@ -50,7 +50,7 @@ img{
 #firstparagraph p {
   font-family: 'Open Sans', sans-serif;
 }
-a{
+#firstparagraph a{
     text-decoration: none;
     background-color: #cd5a5a;
     padding: 10px 40px;
