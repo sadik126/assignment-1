@@ -186,5 +186,15 @@ a{
     font-family: 'Poppins', sans-serif;
 }
 #community{
-    margin-top: 33px;
+    margin-top: 66px;
+}
+.fourthsection{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 19%;
+}
+
+.fourthsection img{
+    padding: 84px 50px;
 }
