@@ -245,4 +245,15 @@ a{
     font-size: 20px;
 }
 
+#footer{
+    height: 90px;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+#footer span{
+    color: rgb(187, 93, 93);
+}
+
 
