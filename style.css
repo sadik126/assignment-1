@@ -128,3 +128,26 @@ a{
 .secondsection p{
     font-family: 'Open Sans', sans-serif;
 }
+
+/* second section ends */
+
+
+
+.thirdsection{
+    margin-top: 120px;
+    
+}
+
+.thirdsection img{
+    width: 65%;
+    margin-left: 70px;
+    
+}
+
+.thirdsection div{
+    width: 50%;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
