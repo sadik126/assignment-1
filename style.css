@@ -88,6 +88,14 @@ img{
     width: 50%;
    
 }
+.secondsection a{
+    text-decoration: none;
+    background-color: #cd5a5a;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 20px;
+}
 .secondsection{
     text-align: center;
 }
