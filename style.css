@@ -168,8 +168,19 @@ a{
 }
 
 /* third section ends */
-
+.fourthsection{
+    margin-top: 55px;
+}
 .fourthsection div{
   width: 50%;
-  margin: 70px 110px;
+  margin-left: 106px;
+  
+}
+
+.fourthsection h1{
+    font-size: 40px;
+}
+
+.fourthsection p{
+    font-size: 20px;
 }
