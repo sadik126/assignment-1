@@ -221,3 +221,28 @@ a{
 #n{
     color: rgb(85, 160, 85);
 }
+
+.fifthsection div{
+  width: 50%;
+  font-family: 'Poppins', sans-serif;
+
+
+}
+.fifthsection h1{
+   font-size: 28px;
+}
+
+#merndiscription{
+    padding-top: 65px;
+}
+
+.fifthsection a{
+    text-decoration: none;
+   background-image: linear-gradient(red,rgb(140, 0, 255));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+
