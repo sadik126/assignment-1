@@ -98,7 +98,7 @@ a{
 
 .secondsection div{
     box-shadow: 12px 12px 42px 1px rgba(32, 32, 41, 0.89);
-    padding-left: 10px 10px ;
+    padding: 10px 10px ;
     margin-left: 5%;
     margin-right: 5%;
    
@@ -121,4 +121,10 @@ a{
 .secondsection h3{
     font-size: 25px;
     margin-top: 2px;
+    font-family: 'Encode Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.secondsection p{
+    font-family: 'Open Sans', sans-serif;
 }
