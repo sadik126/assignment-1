@@ -1,3 +1,124 @@
-*{
+/* first section starts */
+
+body{
     margin: 0;
+    
+}
+
+section{
+    display: flex;
+    /* height: 300px; */
+    
+}
+img{
+    width: 75%;
+    padding: 20px 40px;
+    
+}
+
+.mission{
+    color: orangered;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    padding-right: 40px;
+    font-family: 'Inter', sans-serif;
+
+    /* padding: 161px 145px; */
+    
+}
+
+.halfwidth{
+    width: 50%;
+    
+    
+
+}
+
+#focus{
+    border-left: 3px solid ;
+    border-image: linear-gradient(red,yellow);
+    border-image-slice: 1;
+    
+}
+#firstparagraph{
+    margin: 100px 100px;
+}
+
+#firstparagraph p {
+  font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    background-color: #cd5a5a;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+
+#about{
+    margin-top: 40px;
+}
+
+/* first section ends */
+
+
+
+
+
+
+/* second section starts */
+#mission{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    color: darkblue;
+}
+
+#mission span{
+    color: darkgoldenrod;
+}
+
+.secondsection img{
+    width: 50%;
+   
+}
+.secondsection{
+    text-align: center;
+}
+
+#pic1 h3{
+ padding-right: 30px;
+}
+
+.secondsection div{
+    box-shadow: 12px 12px 42px 1px rgba(32, 32, 41, 0.89);
+    padding-left: 10px 10px ;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+
+#pic1{
+    background-color: rgb(180, 143, 214);
+    border-radius: 25px;
+}
+#pic2{
+    background-color: rgb(204, 182, 146);
+    border-radius: 25px;
+}
+
+#pic3{
+    background-color: rgb(155, 189, 135);
+    border-radius: 25px;
+}
+
+.secondsection h3{
+    font-size: 25px;
+    margin-top: 2px;
 }
