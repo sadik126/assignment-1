@@ -198,3 +198,26 @@ a{
 .fourthsection img{
     padding: 84px 50px;
 }
+
+/* fourth section ends */
+
+#mern{
+    text-align: center;
+    font-size: 30px;
+}
+
+#m{
+    color: rgb(3, 68, 3);
+}
+
+#e{
+    color: indianred;
+}
+
+#r{
+    color: rgb(23, 133, 177);
+}
+
+#n{
+    color: rgb(85, 160, 85);
+}
