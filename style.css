@@ -20,7 +20,7 @@ img{
     color: orangered;
 }
 
-h1{
+#firstparagraph h1{
     font-size: 50px;
     font-weight: 900;
     padding-right: 40px;
@@ -147,6 +147,19 @@ a{
 .thirdsection div{
     width: 50%;
     font-family: 'Poppins', sans-serif;
+}
+
+#limits{
+    margin-top: 5px;
+}
+
+#develop{
+    margin-top: 43px;
+    
+}
+
+.thirdsection h1{
+    font-size: 35px;
 }
 
 
