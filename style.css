@@ -161,6 +161,15 @@ a{
 .thirdsection h1{
     font-size: 35px;
 }
+.thirdsection{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
+/* third section ends */
 
-
+.fourthsection div{
+  width: 50%;
+  margin: 70px 110px;
+}
