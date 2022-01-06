@@ -88,14 +88,7 @@ img{
     width: 50%;
    
 }
-.secondsection a{
-    text-decoration: none;
-    background-color: #cd5a5a;
-    padding: 10px 40px;
-    border-radius: 5px;
-    color: whitesmoke;
-    font-size: 20px;
-}
+
 .secondsection{
     text-align: center;
 }
@@ -146,6 +139,15 @@ img{
     
 }
 
+.thirdsection a{
+    text-decoration: none;
+    background-color: #cd5a5a;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 16px;
+}
+
 .thirdsection img{
     width: 65%;
     margin-left: 70px;
@@ -183,6 +185,15 @@ img{
   width: 50%;
   margin-left: 106px;
   
+}
+
+.fourthsection a{
+    text-decoration: none;
+    background-color: #cd5a5a;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 20px;
 }
 
 .fourthsection h1{
