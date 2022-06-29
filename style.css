@@ -1,66 +1,69 @@
 /* first section starts */
 
-body{
+body {
     margin: 0;
-    
+
 }
 
-section{
+section {
     display: flex;
     /* height: 300px; */
-    
-}
-img{
-    width: 75%;
-    padding: 20px 40px;
-    
+
 }
 
-.mission{
+img {
+    width: 75%;
+    padding: 20px 40px;
+
+}
+
+.mission {
     color: orangered;
 }
 
-#firstparagraph h1{
+#firstparagraph h1 {
     font-size: 50px;
     font-weight: 900;
     padding-right: 40px;
     font-family: 'Inter', sans-serif;
 
     /* padding: 161px 145px; */
-    
+
 }
 
-.halfwidth{
+.halfwidth {
     width: 50%;
-    
-    
+
+
 
 }
 
-#focus{
-    border-left: 4px solid ;
-    border-image: linear-gradient(red,yellow);
+#focus {
+    border-left: 4px solid;
+    border-image: linear-gradient(red, yellow);
     border-image-slice: 1;
-    
+
 }
-#firstparagraph{
+
+#firstparagraph {
     margin: 100px 100px;
 }
 
 #firstparagraph p {
     font-family: 'Poppins', sans-serif;
 }
-#firstparagraph a{
+
+#firstparagraph a {
     text-decoration: none;
     background-color: #cd5a5a;
     padding: 10px 40px;
     border-radius: 5px;
     color: whitesmoke;
     font-size: 20px;
-    
+
 }
 
-#about{
+#about {
     margin-top: 40px;
 }
 
@@ -72,7 +75,7 @@ img{
 
 
 /* second section starts */
-#mission{
+#mission {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
@@ -80,52 +83,54 @@ img{
     color: darkblue;
 }
 
-#mission span{
+#mission span {
     color: darkgoldenrod;
 }
 
-.secondsection img{
+.secondsection img {
     width: 50%;
-   
+
 }
 
-.secondsection{
+.secondsection {
     text-align: center;
 }
 
-#pic1 h3{
- padding-right: 30px;
+#pic1 h3 {
+    padding-right: 30px;
 }
 
-.secondsection div{
+.secondsection div {
     box-shadow: 12px 12px 42px 1px rgba(32, 32, 41, 0.89);
-    padding: 10px 10px ;
+    padding: 10px 10px;
     margin-left: 5%;
     margin-right: 5%;
-   
+    margin-top: 5%;
+
 }
 
-#pic1{
+#pic1 {
     background-color: #d5bced;
     border-radius: 25px;
 }
-#pic2{
+
+#pic2 {
     background-color: #dfcdaf;
     border-radius: 25px;
 }
 
-#pic3{
+#pic3 {
     background-color: #b5d1a5;
     border-radius: 25px;
 }
 
-.secondsection h3{
+.secondsection h3 {
     font-size: 25px;
     margin-top: 2px;
     font-family: 'Poppins', sans-serif;
 }
 
-.secondsection p{
+.secondsection p {
     /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Poppins', sans-serif;
 }
@@ -134,12 +139,12 @@ img{
 
 
 
-.thirdsection{
+.thirdsection {
     margin-top: 120px;
-    
+
 }
 
-.thirdsection a{
+.thirdsection a {
     text-decoration: none;
     background-color: #cd5a5a;
     padding: 10px 40px;
@@ -148,46 +153,48 @@ img{
     font-size: 16px;
 }
 
-.thirdsection img{
+.thirdsection img {
     width: 65%;
     margin-left: 70px;
-    
+
 }
 
-.thirdsection div{
+.thirdsection div {
     width: 50%;
     font-family: 'Poppins', sans-serif;
 }
 
-#limits{
+#limits {
     margin-top: 5px;
 }
 
-#develop{
+#develop {
     margin-top: 43px;
-    
+
 }
 
-.thirdsection h1{
+.thirdsection h1 {
     font-size: 35px;
 }
-.thirdsection{
+
+.thirdsection {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
 
 /* third section ends */
-.fourthsection{
+.fourthsection {
     margin-top: 55px;
 }
-.fourthsection div{
-  width: 50%;
-  margin-left: 106px;
-  
+
+.fourthsection div {
+    width: 50%;
+    margin-left: 106px;
+
 }
 
-.fourthsection a{
+.fourthsection a {
     text-decoration: none;
     background-color: #cd5a5a;
     padding: 10px 40px;
@@ -196,87 +203,162 @@ img{
     font-size: 20px;
 }
 
-.fourthsection h1{
+.fourthsection h1 {
     font-size: 40px;
 }
 
-.fourthsection p{
+.fourthsection p {
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
 }
-#community{
+
+#community {
     margin-top: 100px;
 }
-.fourthsection{
+
+.fourthsection {
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 19%;
 }
 
-.fourthsection img{
+.fourthsection img {
     padding: 84px 50px;
 }
 
 /* fourth section ends */
 
-#mern{
+#mern {
     text-align: center;
     font-size: 30px;
 }
 
-#m{
+#m {
     color: rgb(3, 68, 3);
 }
 
-#e{
+#e {
     color: indianred;
 }
 
-#r{
+#r {
     color: rgb(23, 133, 177);
 }
 
-#n{
+#n {
     color: rgb(85, 160, 85);
 }
 
-.fifthsection div{
-  width: 50%;
-  font-family: 'Poppins', sans-serif;
+.fifthsection div {
+    width: 50%;
+    font-family: 'Poppins', sans-serif;
 
 
 }
-.fifthsection h1{
-   font-size: 28px;
+
+.fifthsection h1 {
+    font-size: 28px;
 }
 
-#merndiscription{
+#merndiscription {
     padding-top: 65px;
 }
 
-.fifthsection a{
+.fifthsection a {
     text-decoration: none;
-   background-image: linear-gradient(red,rgb(140, 0, 255));
+    background-image: linear-gradient(red, rgb(140, 0, 255));
     padding: 10px 40px;
     border-radius: 5px;
     color: whitesmoke;
     font-size: 17px;
 }
+
 /* fifthsection ends */
-#footer{
+#footer {
     height: 90px;
     background-color: black;
     color: blanchedalmond;
     text-align: center;
 }
 
-#footer span{
+#footer span {
     color: rgb(187, 93, 93);
 }
 
-#footer p{
+#footer p {
     font-size: 20px;
 }
 
 
+@media screen and (max-width: 480px) {
+    section {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .halfwidth {
+        width: 100%;
+
+
+
+    }
+
+    .thirdsection div {
+        width: 100%;
+        font-family: 'Poppins', sans-serif;
+    }
+
+
+    #firstparagraph {
+        margin: 100px 20px;
+    }
+
+
+    .thirdsection img {
+        width: 100%;
+        margin-left: -38px;
+        transform: scale(0.8);
+
+    }
+
+
+    .fourthsection div {
+        width: 100%;
+        margin-left: 0px;
+
+    }
+
+    .thirdsection {
+        width: 100%;
+    }
+
+    #footer {
+        width: 110%;
+    }
+
+
+
+    .fifthsection div {
+        width: 100%;
+        font-family: 'Poppins', sans-serif;
+
+
+    }
+
+    #develop {
+        margin: 100px 20px;
+    }
+
+    #community {
+        margin: 100px 20px;
+    }
+
+    #merndiscription {
+        margin: 100px 20px;
+    }
+
+
+
+}
