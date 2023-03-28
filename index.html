@@ -17,6 +17,9 @@
 </head>
 
 <body>
+  <div id="preloader">
+
+  </div>
   <section>
     <div id="firstparagraph" class="halfwidth">
       <h1 id="focus">
@@ -135,5 +138,13 @@
     </div>
   </footer>
 </body>
+  
+  <script>
+  const loader = document.getElementById('preloader')
+
+  window.addEventListener('load', function () {
+    loader.style.display = 'none';
+  })
+</script>
 
 </html>
