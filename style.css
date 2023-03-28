@@ -1,5 +1,15 @@
 /* first section starts */
 
+
+#preloader {
+    height: 100vh;
+    width: 100%;
+    z-index: 100;
+    background: #000 url('images/Dual\ Ball-1s-200px.gif') no-repeat center;
+    background-size: 5%;
+    position: fixed;
+}
+
 body {
     margin: 0;
 
